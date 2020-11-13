@@ -1,5 +1,5 @@
 # Capstone Proposals 
-## Proposal 1 - Detecting tumors in thryoid diseases.
+## Proposal 1 - Detecting Tumors in Thryoid Diseases.
 
 ### **Overview** 
 * The thyroid gland is a butterfly-shaped organ located in the front of the throat that produces and secretes thyroid hormones. It regulates the body's metabolic rate and many other body functions. 
