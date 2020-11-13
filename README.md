@@ -12,7 +12,7 @@
 
 ### **Why?**
 
-For patients with thyroid disorders, a blood test is typically done first to diagnose with a an ultrasound performed after to check for tumors. The ultrasound is often performed automatically, even without other indication that a tumor may be present. Since ultrasounds can be costly in some countries, medically underserved areas, or to uninsured patients, this study aims to assist in determining if the results of the blood test can be used to determine if a patient is at enough risk than an ultrasound would be useful.
+For patients with thyroid disorders, a blood test is typically done first to diagnose with an ultrasound performed after to check for tumors. The ultrasound is often performed automatically, even without other indication that a tumor may be present. Since ultrasounds can be costly in some countries, medically underserved areas, or to uninsured patients, this study aims to assist in determining if the results of the blood test can be used to determine if a patient is at enough risk than an ultrasound would be useful.
 
 ### **Concerns** 
 
