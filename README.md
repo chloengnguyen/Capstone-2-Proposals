@@ -1,4 +1,4 @@
-# Capstone Proposal 
+# Capstone Proposals 
 ## Proposal 1 - Detecting tumors in thryoid diseases.
 
 ### **Overview** 
