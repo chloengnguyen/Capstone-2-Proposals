@@ -16,7 +16,7 @@ For patients with thyroid disorders, a blood test is typically done first to dia
 
 ### **Concerns** 
 
-There seems to be signficantly more tumor-negative cases than tumor-positive cases in the dataset (for hypothyroidism, there are 40 positive cases out of 3156 cases). This could potentially impact the effectiveness of my model.
+There seems to be signficantly more tumor-negative cases than tumor-positive cases in the dataset. This could potentially impact the effectiveness of my model.
 
 
 ### **Source:**
